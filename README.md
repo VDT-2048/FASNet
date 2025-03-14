@@ -1,15 +1,17 @@
 # A Suspected Defect Screening-Guided  Lightweight Network for Few-Shot Aviation  Steel Tube Surface Defect Segmentation
 #### Our paper was accepted by IEEE SENSORS JOURNAL!
 https://ieeexplore.ieee.org/abstract/document/10702486
+![abstract](https://github.com/user-attachments/assets/754d3732-e0a4-49d6-a5fb-29d504283496)
 
-![img.png](abstract.png)
-![img.png](fasnet.png)
+![fasnet](https://github.com/user-attachments/assets/a24b5af0-519f-42c5-b6ba-0150757e6b8d)
+
 
 ## Code and Dataset
 The code and dataset are available at [here](https://pan.baidu.com/s/1IwQKRGGkLBt0FmBpIrFXfQ?pwd=i7q4 ).
 
 ## Result
-![img.png](vis.png)
+![vis](https://github.com/user-attachments/assets/809ed9ad-4941-4084-a554-7af7477a45f0)
+
 
 ## Citation
 ```
